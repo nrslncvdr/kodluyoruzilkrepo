@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 git clone https://github.com/nrslncvdr/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -21,10 +21,10 @@ code .
 
 ```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
